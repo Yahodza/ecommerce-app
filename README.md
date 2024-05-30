@@ -35,8 +35,4 @@ To get started with this Flutter E-Commerce Demo App, follow the steps below:
 4. Run the app on an emulator or connected device.
 5. Explore the various features of the app and follow the provided codebase to understand how different functionalities are implemented.
 
-Feel free to modify and enhance the app to suit your specific needs or use it as a reference for your own Flutter projects.
 
-## Motive
-
-This project was developed as part of a 7 week-long teaching initiative for school graduates in US.
