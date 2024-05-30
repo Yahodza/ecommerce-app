@@ -1,6 +1,12 @@
+BSIT 3RD YEAR 
+MEMBERS:
+YAHODZA ULANGKAYA
+RODEL RODRIGUEZ
+KRYSTOPHER CORESIS
+
 # E-Commerce Demo App
 
-This E-Commerce Demo App is an application developed using Flutter for Web and Firebase. It serves as a comprehensive learning resource for school graduates to understand the basics of Flutter development. The app showcases a simplified e-commerce platform with key features including user authentication, product browsing, cart management, checkout simulation, and wishlist functionality.
+
 
 ## Features
 
